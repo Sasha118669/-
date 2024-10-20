@@ -89,6 +89,15 @@ width: 200px;
   transform: translateX(0);
 }
 
+#search-form {
+  width: 350px;
+  height: 40px;
+  padding-left: 20px;
+  padding-right: 20px;
+  border-radius: 40px;
+}
+
+
 .login {
   cursor: pointer;
   display: flex;
